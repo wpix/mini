@@ -1,11 +1,35 @@
-{{ define "main" }}
+{{ define "main" -}} 
 
-<div class="pa3 pa5-ns">
-  <ul class="f6 lh-title mv2">
-  {{ range (where .Site.Pages "Type" "post") }}
-  {{ $dateformat := .Site.Params.DateFmt | default "Jan 02, 2006" }}
-  <td><a href="{{ .RelPermalink }}">{{ .Date.Format $dateformat }}:</a>{{ .Content }}</td>
+
+ <article class="br2 pa0 mw6 center">
+ 
+ <section id="post-meta" class="clearfix">
+  <a href="/">
+    <img class="u-photo avatar" src="https://ying-1259150231.cos.na-ashburn.myqcloud.com/1556949033.529723SmartPic.png">
+    <div>
+      <span><a href="https://micro.blog/{{ .Site.Author.username }}" class="f5-ns">@{{ .Site.Author.username }} </a></span>
+      <span class="p-author h-card dark f5"> A mini record of her ✍️ Click any content to the post page</span>
+    </div>
+  </a>
+</section>
+
+<div class="w-100 ph1 ph0-ns mt1 w-90-m w-90-lcenter">
+
+  {{ with .Site.GetPage "section" "post" }}
+    {{ range .Data.Pages.GroupByDate "2006" }}
+            <h2 class="f4 f4-ns">
+            {{ .Key }}
+            </h2>    
+            
+            {{ range  .Pages }}
+        	{{ .Render "li.archive" }}
+      		{{ end }}
+
+  <br>
+     {{ end }}
+
    {{ end }}
- </ul>
 </div>
-{{ end }}
+</article>
+
+{{- end }}
