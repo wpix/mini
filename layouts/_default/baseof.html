@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang="en">
+{{ partial "head.html" . }}
+<body>
+  {{ partial "header.html" . }}
+  <section id="wrapper" {{ if eq .File.Dir "about/" }} class="bio" {{ end }}>
+	{{ block "main" . }}{{ end }}
+  </section>
+  {{ partial "footer.html" . }}
+<footer class="pv4 ph3 ph5-m ph6-l mid-gray">
+  <small class="f6 db tc">© 2019 <b> she will never swim alone </b> CC CY-NA</small>
+</footer>
+</body>
+</html>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on mini-ying</title>
+    <link>https://wpix.github.io/mini.github.io/post/</link>
+    <description>Recent content in Posts on mini-ying</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>This work is licensed under a Creative Commons Attribution-Non-Commercial ShareAlike 4.0 International License.</copyright>
+    <lastBuildDate>Sat, 04 May 2019 09:14:48 -0400</lastBuildDate>
+    
+	<atom:link href="https://wpix.github.io/mini.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>https://wpix.github.io/mini.github.io/post/first-post/</link>
+      <pubDate>Sat, 04 May 2019 09:14:48 -0400</pubDate>
+      
+      <guid>https://wpix.github.io/mini.github.io/post/first-post/</guid>
+      <description>Finished reading: 📚Me Before You. Consindering I&amp;rsquo;m new to English fiction, I figure I should pick popuar ones for starters. And to be honest? I LOVE romance fictions 😂</description>
+    </item>
+    
+  </channel>
+</rss>

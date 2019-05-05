@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>mini-ying</title>
+    <link>https://wpix.github.io/mini.github.io/</link>
+    <description>Recent content on mini-ying</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>This work is licensed under a Creative Commons Attribution-Non-Commercial ShareAlike 4.0 International License.</copyright>
+    <lastBuildDate>Sat, 04 May 2019 09:14:48 -0400</lastBuildDate>
+    
+	<atom:link href="https://wpix.github.io/mini.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>https://wpix.github.io/mini.github.io/post/first-post/</link>
+      <pubDate>Sat, 04 May 2019 09:14:48 -0400</pubDate>
+      
+      <guid>https://wpix.github.io/mini.github.io/post/first-post/</guid>
+      <description>Finished reading: 📚Me Before You. Consindering I&amp;rsquo;m new to English fiction, I figure I should pick popuar ones for starters. And to be honest? I LOVE romance fictions 😂</description>
+    </item>
+    
+    <item>
+      <title>About mini-me</title>
+      <link>https://wpix.github.io/mini.github.io/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://wpix.github.io/mini.github.io/about/</guid>
+      <description>I&amp;rsquo;d like to think of this micro.blog as a personal space for posting quick (and weird) ideas ✨, unprocessed photos 📸, and probably short book reviews 📚. In a way I like those social-network-style entries, and I want to be able to continue post them even if I decided to go social-media free. That&amp;rsquo;s the biggest motivation for creating this website.
+Like a mini version of my site, of myself. And this is why this site has the subdomain mini.</description>
+    </item>
+    
+    <item>
+      <title>Hi there</title>
+      <link>https://wpix.github.io/mini.github.io/albums/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://wpix.github.io/mini.github.io/albums/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>archive</title>
+      <link>https://wpix.github.io/mini.github.io/archive/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://wpix.github.io/mini.github.io/archive/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

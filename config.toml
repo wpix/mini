@@ -1,0 +1,22 @@
+baseurl = "https://wpix.github.io/mini.github.io/"
+languageCode = "en-us"
+title = "mini-ying"
+copyright = "This work is licensed under a Creative Commons Attribution-Non-Commercial ShareAlike 4.0 International License."
+
+# Enable comments by entering your Disqus shortnamse
+# disqusShortname = "spf13"
+# Add your tracking code to enable Google Analytics
+googleAnalytics = "UA-137829607-1"
+
+
+# Posts per page
+paginate = 20
+
+
+[Params]
+	opengraph = true
+	
+
+[Author]
+	name = "mini-ying"
+	username = "ying"
