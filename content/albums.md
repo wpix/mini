@@ -1,5 +1,5 @@
 +++
-title = "Hi there"
+title = "Gallery"
 author = "ying"
 type = "page"
 +++
