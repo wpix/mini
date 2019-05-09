@@ -9,5 +9,4 @@ Like a **mini version** of [my site, of myself](https://www.ying-ish.com/). And 
 
 I've done importing some photos originally posted on WeChat into the new gallery page on my microblog site. I usually don't have the camera with me (it's too heavy!) and take photos by phone. My cellphone is about to retire and the image quality isn't always good (at least not enough for a high-resolution desktop browser). There are some photos took by my cellphone that I really like, I will organize them into this gallery 🌇.  
 
-I am so into the idea of a clean, ads-free, and self-hosted “twitter-style” account. And the best part, I have total control over the contents. I post them but not for “likes” 😎  
-It will be more for myself than for something else. 
+I am so into the idea of a clean, ads-free, and self-hosted “twitter-style” account. And the best part, I have total control over the contents. I post them but not for “likes” 😎 It will be more for myself than for something else. 
