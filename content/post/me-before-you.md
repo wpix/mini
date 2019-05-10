@@ -4,7 +4,7 @@ type = "post"
 date = "2019-05-04 09:14:48 -0400"
 
 +++
- 📚Finished reading: Me Before You📚 Consindering I'm new to English fiction, I figure I should pick popuar ones for starters. And to be honest? [I LOVE romance fictions 😂](https://www.amazon.com/Me-Before-You-Novel-Trilogy-ebook/dp/B0089EHWQE/ref=sr_1_3?keywords=me+before+you&qid=1557036154&s=gateway&sr=8-3)
+ 📚Finished reading: Me Before You📚 Consindering I'm new to English fiction, I figure I should pick popuar ones for starters. And to be honest? [I LOVE romance fictions 😂](https://www.amazon.com/Me-Before-You-Novel-Trilogy-ebook/dp/B0089EHWQE/)
 
 I guess I know it up-front that this story is meant to be a sad one. Yet every now and then, when the book talked about how to see the world, to try all the possibilities, and to have someone company have helped other quadriplegic people survived, I was hoping Will would, somehow, make it as well.  
 
