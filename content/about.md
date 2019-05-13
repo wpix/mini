@@ -3,7 +3,7 @@ author = "ying"
 title = "About mini-me"
 type = "page"
 +++
-I'd like to think of this micro.blog as a personal space for posting quick (and weird) ideas ✨, unprocessed photos 📸, and probably short book reviews 📚. In a way I like those social-network-style entries, and I want to be able to continue post them even if I decided to go **social-media free**. That's the biggest motivation for creating this website.   
+I'd like to think of this micro.blog as a personal space for posting quick (and weird) ideas ✨, photos taken by cellphones 📸, and probably short book reviews 📚. In a way I like those social-network-style entries, and I want to be able to continue post them even if I decided to go **social-media free**. That's the biggest motivation for creating this website.   
 
 Like a **mini version** of [my site, of myself](https://www.ying-ish.com/). And this is why this site has the subdomain [mini.ying-ish.com](https://mini.ying-ish.com/) 🐣  
 
