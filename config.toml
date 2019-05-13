@@ -15,7 +15,7 @@ paginate = 20
 
 [Params]
 	opengraph = true
-	
+	imgurl = "https://s3.us-east-2.amazonaws.com/ying-ish/miniposts/"	
 
 [Author]
 	name = "mini-ying"
