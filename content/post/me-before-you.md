@@ -2,7 +2,7 @@
 title = " 📚 Me Before You "
 type = "post"
 date = "2019-05-04 09:14:48 -0400"
-
+description = " 📚 Me Before You "
 +++
  📚Finished reading: Me Before You📚 Consindering I'm new to English fiction, I figure I should pick popuar ones for starters. And to be honest? [I LOVE romance fictions 😂](https://www.amazon.com/Me-Before-You-Novel-Trilogy-ebook/dp/B0089EHWQE/)
 
