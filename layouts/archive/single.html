@@ -17,19 +17,20 @@
 
   {{ with .Site.GetPage "section" "post" }}
     {{ range .Data.Pages.GroupByDate "2006" }}
-            <h2 class="f4 f4-ns">
-            {{ .Key }}
-            </h2>    
+        <h2 class="f4 f4-ns">{{ .Key }}</h2>    
             
+                <ul id="list">
             {{ range  .Pages }}
-        	{{ .Render "li.archive" }}
-      		{{ end }}
+        	       {{ .Render "li.archive" }}
+      		  {{ end }}
+                </ul>
 
-  <br>
      {{ end }}
 
    {{ end }}
 </div>
+
+
 </article>
 
 {{- end }}

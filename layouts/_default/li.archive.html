@@ -1,4 +1,7 @@
-<ul>
-    <a href='{{ .Permalink}}' class="link hover-bg-light-gray">{{- .Content | truncate 60 -}}
+<ul>   
+    <a class="f5 link dim pointer underline"  href='{{ .Permalink}}'>
+    {{ .Date.Format "Mon, Jan 2, 2006" }}</a>
+    <p class="f6">{{- .Content | truncate 60 -}}</p>
 
 </ul>
+
