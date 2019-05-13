@@ -5,4 +5,3 @@ imgurl = "phoenix-red-door.jpg"
 title = " 📷 A small house at Phoenix"
 +++
 ![a small house with blue walls and a red door at Phoenix](https://s3.us-east-2.amazonaws.com/ying-ish/miniposts/phoenix-a-red-door.jpg)
-Washed-blue walls with a brilliant red door. Loved it already.  
