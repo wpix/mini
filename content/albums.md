@@ -1,7 +1,8 @@
 +++
 title = "Gallery"
 author = "ying"
-type = "page"
+date = "2019-04-12"
+type = "post"
 +++
 <section class="cf w-100 pa1-ns">
   <article class="fl w-100 w-50-m  w-25-ns pa1-ns">
@@ -76,3 +77,4 @@ type = "page"
       class="db bg-center cover aspect-ratio--object" />
     </div>
   </article>
+</section>
