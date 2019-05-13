@@ -2,12 +2,10 @@
 type = "post"
 date = "2019-05-13 04:14:48 -0400"
 imgurl = "phoenix-red-door.jpg"
-title = "📷 A small house with blue walls and a red door at Phoenix"
+title = "📷 A small house at Phoenix"
 +++
 
-Took @Phoenix two weeks ago.  
-
-The main street near the downtown convention center was under construction and so many restaurants and stores remain closed.  
+The main street near the convention center was under construction so many restaurants and stores remain closed.  
 
 I found this small building near one bus station. Washed-blue walls with a brilliant red door. Loved it already.  
 
