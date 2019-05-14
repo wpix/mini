@@ -2,7 +2,7 @@
 title = "Gallery"
 author = "ying"
 date = "2019-04-12"
-type = "post"
+type = "page"
 +++
 <section class="cf w-100 pa1-ns">
   <article class="fl w-100 w-50-m  w-25-ns pa1-ns">

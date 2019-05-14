@@ -1,8 +1,10 @@
+
+{{ define "main" }}
+
 {{ $baseurl := .Site.BaseURL }}
 {{ $img := .Site.Params.imgurl }}
 
 
-{{ define "main" }}
 <article class="h-entry post">
   <header>
     <h1 class="p-name">{{ .Title }}</h1>
@@ -11,18 +13,6 @@
       {{ .Content }}
   </section>
 </article>
-
-
-<div class="mw-100 mw-90-l">
-  <figure class="mw-100 mw-80-l flex flex-column">
-    <img class="center contain" src=" https://apfbvvpren.cloudimg.io/width/1024/n/{{ .Site.Params.imgurl }}{{ .Params.imgurl | safeURL }}"
-                  srcset="https://apfbvvpren.cloudimg.io/width/400/n/{{ .Site.Params.imgurl }}{{ .Params.imgurl | safeURL }} 400w,
-                          https://apfbvvpren.cloudimg.io/width/800/n/{{ .Site.Params.imgurl }}{{ .Params.imgurl | safeURL }} 800w,
-                          https://apfbvvpren.cloudimg.io/width/1200/n/{{ .Site.Params.imgurl }}{{ .Params.imgurl | safeURL }} 1200w"
-                  class="" style="max-height: 78vh;">
-
-  </figure>
-</div>
 
 
 <section id="post-meta" class="clearfix">

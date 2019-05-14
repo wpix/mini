@@ -1,52 +1,143 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>mini-ying</title>
-    <link>https://wpix.github.io/mini.github.io/</link>
+    <link>https://mini.ying-ish.com/</link>
     <description>Recent content on mini-ying</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>This work is licensed under a Creative Commons Attribution-Non-Commercial ShareAlike 4.0 International License.</copyright>
-    <lastBuildDate>Sat, 04 May 2019 09:14:48 -0400</lastBuildDate>
+    <lastBuildDate>Mon, 13 May 2019 04:14:48 -0400</lastBuildDate>
     
-	<atom:link href="https://wpix.github.io/mini.github.io/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://mini.ying-ish.com/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title></title>
-      <link>https://wpix.github.io/mini.github.io/post/first-post/</link>
+      <title> 📷 @Phoenix</title>
+      <link>https://mini.ying-ish.com/post/phoenix-a-red-door/</link>
+      <pubDate>Mon, 13 May 2019 04:14:48 -0400</pubDate>
+      
+      <guid>https://mini.ying-ish.com/post/phoenix-a-red-door/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://s3.us-east-2.amazonaws.com/ying-ish/miniposts/phoenix-door-airplane.jpg&#34; alt=&#34;a small house with blue walls and a red door at Phoenix&#34; /&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title> 📚 Me Before You </title>
+      <link>https://mini.ying-ish.com/post/me-before-you/</link>
       <pubDate>Sat, 04 May 2019 09:14:48 -0400</pubDate>
       
-      <guid>https://wpix.github.io/mini.github.io/post/first-post/</guid>
-      <description>Finished reading: 📚Me Before You. Consindering I&amp;rsquo;m new to English fiction, I figure I should pick popuar ones for starters. And to be honest? I LOVE romance fictions 😂</description>
+      <guid>https://mini.ying-ish.com/post/me-before-you/</guid>
+      <description>&lt;p&gt;📚Finished reading: Me Before You📚 Consindering I&amp;rsquo;m new to English fiction, I figure I should pick popuar ones for starters. And to be honest? &lt;a href=&#34;https://www.amazon.com/Me-Before-You-Novel-Trilogy-ebook/dp/B0089EHWQE/&#34;&gt;I LOVE romance fictions 😂&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;I guess I know it up-front that this story is meant to be a sad one. Yet every now and then, when the book talked about how to see the world, to try all the possibilities, and to have someone company have helped other quadriplegic people survived, I was hoping Will would, somehow, make it as well.&lt;/p&gt;
+
+&lt;p&gt;Will was insecure. He said nobody could predict what’s in the future and Lou may not love him at all. I think this exact idea also haunted him, that if Lou has made him alive, he would be devastated when she wouldn’t love him anymore.&lt;/p&gt;
+
+&lt;p&gt;Will said to Lou that she was not enough for him. He absolutely (well, at least for me) loved her. Not true. He freed her, and he thought she would never be truly free if she was around him. He was such a free spirit that (I assume) he couldn’t even bear the idea that he would tied her foot down.&lt;/p&gt;
+
+&lt;p&gt;I was hoping, especially when I was approaching the end, that Lou could lead him back. Just as Will’s mother, she held on tot a tiny little hope until the very end, in that vey normal room in Switzerland. But Will was so determined, it is what makes of him. Otherwise he won’t become the person he used to be anyway.&lt;/p&gt;
+
+&lt;p&gt;I was hoping, that he could be more selfish, enough so that he can keep Lou around him; that he didn’t feel the responsibility to free anyone else. But there he was. Non-Stoppable soul. We knew it up front, that he wasn’t just this type of person.&lt;/p&gt;
+</description>
     </item>
     
     <item>
       <title>About mini-me</title>
-      <link>https://wpix.github.io/mini.github.io/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <link>https://mini.ying-ish.com/about/</link>
+      <pubDate>Fri, 12 Apr 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://wpix.github.io/mini.github.io/about/</guid>
-      <description>I&amp;rsquo;d like to think of this micro.blog as a personal space for posting quick (and weird) ideas ✨, unprocessed photos 📸, and probably short book reviews 📚. In a way I like those social-network-style entries, and I want to be able to continue post them even if I decided to go social-media free. That&amp;rsquo;s the biggest motivation for creating this website.
-Like a mini version of my site, of myself. And this is why this site has the subdomain mini.</description>
+      <guid>https://mini.ying-ish.com/about/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;d like to think of this micro.blog as a personal space for posting quick (and weird) ideas ✨, photos taken by cellphones 📸, and probably short book reviews 📚. In a way I like those social-network-style entries, and I want to be able to continue post them even if I decided to go &lt;strong&gt;social-media free&lt;/strong&gt;. That&amp;rsquo;s the biggest motivation for creating this website.&lt;/p&gt;
+
+&lt;p&gt;Like a &lt;strong&gt;mini version&lt;/strong&gt; of &lt;a href=&#34;https://www.ying-ish.com/&#34;&gt;my site, of myself&lt;/a&gt;. And this is why this site has the subdomain &lt;a href=&#34;https://mini.ying-ish.com/&#34;&gt;mini.ying-ish.com&lt;/a&gt; 🐣&lt;/p&gt;
+
+&lt;p&gt;I&amp;rsquo;ve done importing some photos originally posted on WeChat into the new gallery page on my microblog site. I usually don&amp;rsquo;t have the camera with me (it&amp;rsquo;s too heavy!) and take photos by phone. My cellphone is about to retire and the image quality isn&amp;rsquo;t always good (at least not enough for a high-resolution desktop browser). There are some photos took by my cellphone that I really like, I will organize them into this gallery 🌇.&lt;/p&gt;
+
+&lt;p&gt;I am so into the idea of a clean, ads-free, and self-hosted “twitter-style” account. And the best part, I have total control over the contents. I post them but not for “likes” 😎 It will be more for myself than for something else.&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title>Hi there</title>
-      <link>https://wpix.github.io/mini.github.io/albums/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <title>Gallery</title>
+      <link>https://mini.ying-ish.com/albums/</link>
+      <pubDate>Fri, 12 Apr 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://wpix.github.io/mini.github.io/albums/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>archive</title>
-      <link>https://wpix.github.io/mini.github.io/archive/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://wpix.github.io/mini.github.io/archive/</guid>
-      <description></description>
+      <guid>https://mini.ying-ish.com/albums/</guid>
+      <description>&lt;section class=&#34;cf w-100 pa1-ns&#34;&gt;
+  &lt;article class=&#34;fl w-100 w-50-m  w-25-ns pa1-ns&#34;&gt;
+    &lt;div class=&#34;aspect-ratio aspect-ratio--1x1&#34;&gt;
+      &lt;img style=&#34;background-image:url(https://s3.us-east-2.amazonaws.com/ying-ish/gallery9.jpg);&#34; 
+      class=&#34;db bg-center cover aspect-ratio--object&#34; /&gt;
+    &lt;/div&gt;
+  &lt;/article&gt;
+  &lt;article class=&#34;fl w-100 w-50-m  w-25-ns pa1-ns&#34;&gt;
+    &lt;div class=&#34;aspect-ratio aspect-ratio--1x1&#34;&gt;
+      &lt;img style=&#34;background-image:url(https://s3.us-east-2.amazonaws.com/ying-ish/gallery10.jpg);&#34; 
+      class=&#34;db bg-center cover aspect-ratio--object&#34; /&gt;
+    &lt;/div&gt;
+  &lt;/article&gt;
+  &lt;article class=&#34;fl w-100 w-50-m  w-25-ns pa1-ns&#34;&gt;
+    &lt;div class=&#34;aspect-ratio aspect-ratio--1x1&#34;&gt;
+      &lt;img style=&#34;background-image:url(https://s3.us-east-2.amazonaws.com/ying-ish/gallery11.jpg);&#34; 
+      class=&#34;db bg-center cover aspect-ratio--object&#34; /&gt;
+    &lt;/div&gt;
+  &lt;/article&gt;
+  &lt;article class=&#34;fl w-100 w-50-m  w-25-ns pa1-ns&#34;&gt;
+    &lt;div class=&#34;aspect-ratio aspect-ratio--1x1&#34;&gt;
+      &lt;img style=&#34;background-image:url(https://s3.us-east-2.amazonaws.com/ying-ish/gallery12.jpg);&#34; 
+      class=&#34;db bg-center cover aspect-ratio--object&#34; /&gt;
+    &lt;/div&gt;
+  &lt;/article&gt;
+  &lt;article class=&#34;fl w-100 w-50-m  w-25-ns pa1-ns&#34;&gt;
+    &lt;div class=&#34;aspect-ratio aspect-ratio--1x1&#34;&gt;
+      &lt;img style=&#34;background-image:url(https://s3.us-east-2.amazonaws.com/ying-ish/gallery6.jpg);&#34; 
+      class=&#34;db bg-center cover aspect-ratio--object&#34; /&gt;
+    &lt;/div&gt;
+  &lt;/article&gt;
+  &lt;article class=&#34;fl w-100 w-50-m  w-25-ns pa1-ns&#34;&gt;
+    &lt;div class=&#34;aspect-ratio aspect-ratio--1x1&#34;&gt;
+      &lt;img style=&#34;background-image:url(https://s3.us-east-2.amazonaws.com/ying-ish/gallery3.jpg);&#34; 
+      class=&#34;db bg-center cover aspect-ratio--object&#34; /&gt;
+    &lt;/div&gt;
+  &lt;/article&gt;
+  &lt;article class=&#34;fl w-100 w-50-m  w-25-ns pa1-ns&#34;&gt;
+    &lt;div class=&#34;aspect-ratio aspect-ratio--1x1&#34;&gt;
+      &lt;img style=&#34;background-image:url(https://s3.us-east-2.amazonaws.com/ying-ish/gallery8.jpg);&#34; 
+      class=&#34;db bg-center cover aspect-ratio--object&#34; /&gt;
+    &lt;/div&gt;
+  &lt;/article&gt;
+  &lt;article class=&#34;fl w-100 w-50-m  w-25-ns pa1-ns&#34;&gt;
+    &lt;div class=&#34;aspect-ratio aspect-ratio--1x1&#34;&gt;
+      &lt;img style=&#34;background-image:url(https://s3.us-east-2.amazonaws.com/ying-ish/beach-birds-3.jpg);&#34; 
+      class=&#34;db bg-center cover aspect-ratio--object&#34; /&gt;
+    &lt;/div&gt;
+  &lt;/article&gt;
+  &lt;article class=&#34;fl w-100 w-50-m  w-25-ns pa1-ns&#34;&gt;
+    &lt;div class=&#34;aspect-ratio aspect-ratio--1x1&#34;&gt;
+      &lt;img style=&#34;background-image:url(https://s3.us-east-2.amazonaws.com/ying-ish/gallery5.jpg);&#34; 
+      class=&#34;db bg-center cover aspect-ratio--object&#34; /&gt;
+    &lt;/div&gt;
+  &lt;/article&gt;
+  &lt;article class=&#34;fl w-100 w-50-m  w-25-ns pa1-ns&#34;&gt;
+    &lt;div class=&#34;aspect-ratio aspect-ratio--1x1&#34;&gt;
+      &lt;img style=&#34;background-image:url(https://s3.us-east-2.amazonaws.com/ying-ish/gallery4.jpg);&#34; 
+      class=&#34;db bg-center cover aspect-ratio--object&#34; /&gt;
+    &lt;/div&gt;
+  &lt;/article&gt;
+  &lt;article class=&#34;fl w-100 w-50-m  w-25-ns pa1-ns&#34;&gt;
+    &lt;div class=&#34;aspect-ratio aspect-ratio--1x1&#34;&gt;
+      &lt;img style=&#34;background-image:url(https://s3.us-east-2.amazonaws.com/ying-ish/gallery2.jpg);&#34; 
+      class=&#34;db bg-center cover aspect-ratio--object&#34; /&gt;
+    &lt;/div&gt;
+  &lt;/article&gt;
+  &lt;article class=&#34;fl w-100 w-50-m  w-25-ns pa1-ns&#34;&gt;
+    &lt;div class=&#34;aspect-ratio aspect-ratio--1x1&#34;&gt;
+      &lt;img style=&#34;background-image:url(https://s3.us-east-2.amazonaws.com/ying-ish/gallery1.jpg);&#34; 
+      class=&#34;db bg-center cover aspect-ratio--object&#34; /&gt;
+    &lt;/div&gt;
+  &lt;/article&gt;
+&lt;/section&gt;
+</description>
     </item>
     
   </channel>
