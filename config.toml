@@ -13,7 +13,7 @@ paginate = 20
 
 [Params]
 	opengraph = true
-	imgurl = "https://s3.us-east-2.amazonaws.com/ying-ish/miniposts/"
+	imgurl = "https://raw.githubusercontent.com/wpix/solid-pipix/master/miniposts/"
 	tiny = "https://song.link/i/"
 [Author]
 	name = "mini-ying"

@@ -7,4 +7,4 @@ layout: music
 description: I do what I want (she does), say what you say
 music: 1253656859
 ---
-![I do what I want (she does), say what you say](https://s3.us-east-2.amazonaws.com/ying-ish/miniposts/kesha-woman.jpg)
+![I do what I want (she does), say what you say](https://apfbvvpren.cloudimg.io/cdn/n/n/https://raw.githubusercontent.com/wpix/solid-pipix/master/miniposts/kesha-woman.jpg)

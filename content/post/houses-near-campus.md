@@ -6,4 +6,4 @@ description: I usually leave for home way earlier or later than the evening time
 imgurl: a-house-near-campus.jpg
 title: 🌅 Houses near the campus
 ---
-![Houses near the campus in the evening](https://s3.us-east-2.amazonaws.com/ying-ish/miniposts/a-house-near-campus.jpg)
+![Houses near the campus in the evening](https://apfbvvpren.cloudimg.io/cdn/n/n/https://raw.githubusercontent.com/wpix/solid-pipix/master/miniposts/a-house-near-campus.jpg)
