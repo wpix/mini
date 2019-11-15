@@ -1,108 +1,45 @@
-
-
-
-
-
-
-div#comments.comments.v{
-  margin-top: 0px !important;
-  margin-left: 0px !important;
-  margin-right: 0px !important;
+.doc_comments {
+  font-size: 14px;
+  color: #f1aaaa;
+  margin-top: 30px;
+  padding: 35px 0 45px;
 }
 
-div.vheader.item2{
-  border-bottom: 1px solid #f1aaaa;
-  height: 25px !important;
+.doc_comments .comments_block_title {
+  color: #000000;
 }
 
-.v .vwrap .vheader.item2 .vinput{
-  height: 25px !important;
-  border: 0px !important;
-  width: 25% !important;
-  margin: 0px !important;
-}
-
-
-.v .vinput {
-  font-size: 14px !important;
-}
-.v .veditor {
-  font-size: 14px !important;
-}
-.v .power {
-  display: none !important;
-}
-
-
-
-
-
-
-div.vcontrol{
-  padding-top: 0px !important;
-}
-
-div#comments.comments.v{
-  border: 0px;
-}
-
-.v .vwrap{
-  border-width: 1px;
+.v .vwrap {
+  margin-top: 15px;
+  border-width: 2px;
   border-color: #c2c2c2;
-  height: 210px !important;
   border-radius: 6px !important;
-  overflow: visible !important;
-  counter-reset: avater;
+    overflow: visible
 }
 
-.v .vwrap .vedit .vemojis{
-  width: 600px !important;
-  background-color: #fff !important;
-  border-radius: 5px !important;
+.v .veditor {
+  min-height: 4.75rem;
+  min-width: 4.75rem;
 }
 
-.v .vwrap .vedit .vpreview {
-  width: 600px !important;
-  background-color: #fff !important;
-  border-radius: 5px !important;
+.v .vwrap .vheader .vinput {
 }
 
-
-
+.v .vbtn {
+  color: #010101;
+  background-color: #ededed;
+  border: none;
+}
 
 .v .vbtn:active,
 .v .vbtn:hover {
   color: #010101;
   border-color: #000000;
-  background-color: #ffdee3;
+  background-color:#ffdee3;
 }
 
-.v .vwrap .vedit .vctrl{
-  text-align: left !important;
-}
-
-.v .vwrap .vedit .vctrl span{
-  color: #000000 !important;
-}
-
-.v .vwrap .vedit .vctrl{
-  padding: 0px !important;
-  margin: 0px !important;
-}
-
-div.vedit{
-  height: 120px;
-}
-
-.v .veditor{
-  min-height: 70px !important;
-  height: 70px !important;
-}
-
-
-.v .vlist .vcard {
-  border-left: 1px 
-  border-color: #ffdee3 !important;
+.v .power {
+  display: none !important;
 }
 
 .v .vlist .vcard .vhead .vsys{
@@ -112,26 +49,14 @@ div.vedit{
 
 .v .vlist .vcard .vhead .vnick{
   color: #070707;
+  font-size:16px;
 }
-
 .v .vlist .vcard .vhead .vnick:active,
 .v .vlist .vcard .vhead .vnick:hover{
   color: #d47b8a;
 }
-
-
 .v .vlist .vcard .vh .vmeta .vat{
-  color: #070707 !important;
+    color: #070707 !important;
     font-size: 14px !important;
-    border-radius: 3px !important;
-}
-.v .vlist .vcard .vh .vmeta .vat:active,
-.v .vlist .vcard .vh .vmeta .vat:hover{
-  color: #d47b8a;
 }
 
-
-
-.v .vlist .vcard .vcontent {
-  font-size: 16px !important;
-}
