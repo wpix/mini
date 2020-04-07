@@ -7,7 +7,7 @@
     <article>
       {{ if .Title }}
       <section class="post-body">
-	{{ .Title }}
+	  <h3><a href="{{ .Permalink }}">{{ .Title }}</a></h3>{{ .Title }}
         {{ .Content | truncate 200 }}
       </section>
       {{ else }}
