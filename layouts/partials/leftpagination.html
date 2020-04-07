@@ -1,0 +1,41 @@
+<div class="flex items-center justify-between contain mt4">
+
+    {{ $currentSection := (($.Site.GetPage "section" .Section).Pages.ByParam "position") }}
+
+    {{ $.Scratch.Set "counter" 0 }}
+    {{ $.Scratch.Set "currentPosition" 0 }}
+
+    {{ range $currentSection }}
+        {{ if eq $.Permalink .Permalink }}
+            {{ $.Scratch.Set "currentPosition" ($.Scratch.Get "counter") }}
+        {{ end }}
+        {{ $.Scratch.Set "counter" (add ($.Scratch.Get "counter") 1) }}
+    {{ end }}
+
+    {{ $.Scratch.Set "counter" 0 }}
+    {{ range $currentSection }}
+        {{ if eq ($.Scratch.Get "counter") (add ($.Scratch.Get "currentPosition") 1) }}
+            {{ $.Scratch.Set "next" .Permalink }}
+        {{ end }}
+
+        {{ if eq ($.Scratch.Get "counter") (sub ($.Scratch.Get "currentPosition") 1) }}
+            {{ $.Scratch.Set "previous" .Permalink }}
+        {{ end }}
+
+        {{ $.Scratch.Set "counter" (add ($.Scratch.Get "counter") 1) }}
+    {{ end }}
+   
+    {{ if $.Scratch.Get "previous" }}
+        <a href="{{ $.Scratch.Get "previous" }}" class="nowrap nav-prev hover-moon-grey" aria-label="Previous entry">
+	        <img src="/images/uploads/angle.svg" alt="< Previous" />
+	    </a>
+    {{ end }}
+
+
+    {{ if $.Scratch.Get "next" }}
+        <a href="{{ $.Scratch.Get "next" }}" class="nowrap nav-next" aria-label="Next entry">
+	        <img src="/images/uploads/angle.svg" alt="Next >" />
+        </a>
+    {{ end }}
+</div><!-- #paginator -->
+

@@ -7,12 +7,14 @@
 
 <article class="h-entry post">
   <header>
-    <h1 class="p-name">{{ .Title }}</h1>
+    <h2 class="p-name">{{ .Title }}</h2>
   </header>
   <section class="e-content post-body">
       {{ .Content }}
   </section>
 </article>
+
+     {{ partial "leftpagination.html" . }}
 
 
 <section id="post-meta" class="clearfix">

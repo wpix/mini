@@ -22,6 +22,8 @@
       <link rel="EditURI" type="application/rsd+xml" href="{{ "rsd.xml" | absURL }}" />
     {{ end -}}
 
+      <link rel="stylesheet" href="https://unpkg.com/tachyons/css/tachyons.min.css">
+      
 	<link rel="me" href="https://micro.blog/{{ .Site.Author.username }}" />
 	{{ with .Site.Params.twitter_username }}
 		<link rel="me" href="https://twitter.com/{{ . }}" />

@@ -8,28 +8,24 @@
   <header>
     <h3 class="p-name">{{ .Title }}</h3>
 <br>
-    <h5 class="p-name">{{ .Description }}</h5>
+    <!-- <h5 class="p-name" align="left">{{ .Description }}</h5> -->
   </header>
 </article>
 
 <br>
 
-<div class="mw-100 mw-90-l">
-  <figure class="mw-100 mw-80-l flex flex-column">
-    <img class="center contain"
-                  srcset="https://apfbvvpren.cloudimg.io/v7/{{ $img }}{{ .Params.imgurl | safeURL }}?height/200/n 1x,
-                          https://apfbvvpren.cloudimg.io/v7/{{ $img }}{{ .Params.imgurl | safeURL }}?height/400/n 2x,
-                          https://apfbvvpren.cloudimg.io/v7/{{ $img }}{{ .Params.imgurl | safeURL }}?height/600/n 3x,
-			  https://apfbvvpren.cloudimg.io/v7/{{ $img }}{{ .Params.imgurl | safeURL }}?height/800/n 4x,"
-                  class="" style="max-height: 75vh;">
+<div class="mw-100 mw-90-l" align="left">
 
-  </figure>
+  {{ .Content }}
+  
 </div>
+
+    {{ partial "leftpagination.html" . }}
 
 
 <section id="post-meta" class="clearfix">
   <a href="/">
-    <img class="u-photo avatar" src="https://raw.githubusercontent.com/wpix/solid-pipix/master/avatar.jpg"> i
+    <img class="u-photo avatar" src="https://raw.githubusercontent.com/wpix/solid-pipix/master/avatar.jpg">
     <div>
       <span><a href="https://micro.blog/{{ .Site.Author.username }}">@{{ .Site.Author.username }}</a></span>
             <span class="p-author h-card dark">If there was a next life, she'd like to be a shell, just by the ocean.</span>
