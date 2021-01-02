@@ -1,7 +1,7 @@
 ---
 type: photo
 date: "2019-04-15T15:16:44"
-title: Book: Me Before You
+title: Me Before You
 ---
 Considering I'm new to English fiction, I figure I should pick popular ones for starters. And to be honest? [I love romance fictions 😂 ](https://www.amazon.com/Me-Before-You-Novel-Trilogy-ebook/dp/B0089EHWQE/)
 
